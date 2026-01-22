@@ -1,0 +1,4 @@
+VM with Best Practices/enviroment/DEV/.terraform/
+VM with Best Practices/enviroment/DEV/terraform.tfstate
+VM with Best Practices/enviroment/DEV/terraform.tfstate.backup
+VM with Best Practices/enviroment/DEV/.terraform.lock.hcl

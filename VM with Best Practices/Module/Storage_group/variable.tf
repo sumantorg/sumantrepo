@@ -1,0 +1,1 @@
+# variable "stor_map" {}
