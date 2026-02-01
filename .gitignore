@@ -6,3 +6,6 @@ vmss/.terraform/
 vmss/terraform.tfstate
 vmss/terraform.tfstate.backup
 vmss/.terraform.lock.hcl
+*.exe
+.terraform/
+*.tfstate
